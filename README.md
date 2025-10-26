@@ -56,19 +56,10 @@ I am looking to learn and deeply understand all there is about AI, through proje
 </details>
 
 <details>
-  <summary>Deep Learning</summary>
+  <summary>Other</summary>
   <ul>
     <li>
       <!-- Add your deep learning projects here -->
-    </li>
-  </ul>
-</details>
-
-<details>
-  <summary>Blogs</summary>
-  <ul>
-    <li>
-      <!-- Add your automation projects here -->
     </li>
   </ul>
 </details>
