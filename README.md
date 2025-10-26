@@ -78,9 +78,6 @@ I am looking for internship opportunities in **`Data Science`**, **`Machine Lear
   </ul>
 </details>
 
-### 🧠 Currently Working On
-<!--RECENT_REPOS:start-->
-<!--RECENT_REPOS:end-->
 
 ## 💼 Experience
 
