@@ -87,8 +87,3 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 - Assisted in managing a **sports club**, mentoring new players  
 - Captured and edited media for **school and community events**  
 - Volunteered at **dog shelters** and **Park Run** events  
-
-
-## 📲 Contact Details
-If you're interested in doing business with me, please contact me (preferably on gmail):
-- Jacksongee2005@gmail.com
