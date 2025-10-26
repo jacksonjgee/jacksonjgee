@@ -61,15 +61,6 @@ I am looking for internship opportunities in **`Data Science`**, **`Machine Lear
 </details>
 
 <details>
-  <summary>Automations</summary>
-  <ul>
-    <li>
-      <!-- Add your automation projects here -->
-    </li>
-  </ul>
-</details>
-
-<details>
   <summary>Blogs</summary>
   <ul>
     <li>
