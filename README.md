@@ -64,6 +64,20 @@ I am looking to learn and deeply understand all there is about AI, through proje
   </ul>
 </details>
 
+<div style="display:flex;gap:10px;">
+  <div>
+    <h4>🧠 Machine Learning</h4>
+    <a href="https://github.com/jacksonjgee/SVM-Titanic">SVM-Titanic</a><br>
+    Support Vector Machine on Titanic dataset.
+  </div>
+  <div>
+    <h4>💻 Web Dev</h4>
+    <a href="#">Portfolio Site</a><br>
+    HTML, CSS, JS
+  </div>
+</div>
+
+
 
 ## 💼 Experience
 
