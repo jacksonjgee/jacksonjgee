@@ -1,10 +1,13 @@
-# 👋 Hi, I'm Jackson Gee
+# 🤖 Hi, I'm Jackson Gee
 
-🎓 **Bachelor of Advanced Computer Science (Honours)**  
+🎓 **Bachelor of Advanced Computer Science (Honours) — `1st Year` **  
 Majoring in **Artificial Intelligence** at the **University of Western Australia** (WAM 76)
 
-💡 I’m passionate about building intelligent systems that bridge **machine learning**, **automation**, and **creative technology**. My focus lies in applying AI to real-world problems through thoughtful design, clean code, and scalable solutions.
-
+**About Me:**  
+**About Me:**  
+My goal is to obtain a deep understanding of the world of AI and apply that knowledge practically to the world in ways that matter.  
+I aim to learn through personal & academic projects, mentorship, and research.  
+I am looking for internship opportunities in **`Data Science`**, **`Machine Learning`**, **`Deep Learning`**, and **`Automations`**.
 ---
 
 ## 🧠 Skills & Tools
