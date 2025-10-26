@@ -33,33 +33,45 @@ I am looking for internship opportunities in **`Data Science`**, **`Machine Lear
   <img alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
 </p>
 
-
-
-      
-          
-        
-
 ## 🚀 Projects
 
-### 🧩 Census Data Analysis
-Analyzed ABS 2016–2021 census data in **Python (Pandas, Matplotlib)** to explore trends in education fields, reshaping, cleaning, and visualizing population insights.
+<details>
+  <summary>Data Science</summary>
+  <ul>
+    <li>
+      <!-- Add your data science projects here -->
+    </li>
+  </ul>
+</details>
 
-### ⚙️ CPU Process Scheduling
-Developed a **C simulation** of a virtual memory system with per-process page tables and **LRU page replacement**, modeling how modern operating systems manage memory.
+<details>
+  <summary>Machine Learning</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/jacksonjgee/SVM-Titanic">SVM-Titanic: Predict Titanic survival with Support Vector Machine</a>  
+      Used Python, JupyterLab, Pandas, NumPy, Scikit-learn and Matplotlib to build, train, and evaluate an SVM model for the Titanic dataset (Kaggle).
+    </li>
+  </ul>
+</details>
 
-### 💪 Gym Workout App
-Built a customizable **Java-based workout application** featuring **AI chatbot integration** using the OpenAI API for intelligent training guidance.
+<details>
+  <summary>Deep Learning</summary>
+  <ul>
+    <li>
+      <!-- Add your deep learning projects here -->
+    </li>
+  </ul>
+</details>
 
-### 🧬 AI Healthcare Diagnostics
-Proposed an AI-driven diagnostic system to enhance **accessibility and efficiency** in healthcare workflows.
+<details>
+  <summary>Automations</summary>
+  <ul>
+    <li>
+      <!-- Add your automation projects here -->
+    </li>
+  </ul>
+</details>
 
-### 🤝 Gym Social App
-Designed an interactive **fitness social platform prototype** in **Canva**, aimed at improving community engagement in gyms.
-
-### 📱 Content Creation
-Grew a **35K+ TikTok audience**, creating educational fitness content to promote wellbeing and consistency.
-
----
 
 ## 💼 Experience
 
@@ -71,7 +83,6 @@ Developed **n8n workflows** (Zoom API) for automatic meeting creation and an **E
 📅 June 2023 – Nov 2023  
 Produced and edited course modules, handling **camera operation**, **post-production editing**, and **colour correction**, delivering high-quality learning content.
 
----
 
 ## 🌱 Involvement & Volunteering
 
@@ -80,26 +91,5 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 - 📸 Captured and edited media for **school and community events**  
 - 🐾 Volunteered at **dog shelters** and **Park Run** events  
 
----
-
-## 🎓 Education
-
-**University of Western Australia**  
-*Bachelor of Advanced Computer Science (Honours), Major in AI* — *WAM 76*  
-Relevant units: Data Science, Python, Relational Databases, Cybersecurity, Systems Programming, Philosophical AI
-
-**Reddam House College (High School)**  
-📊 93 ATAR / 79% NSC Aggregate  
-🏅 Bronze & Silver Awards in IT | 90%+ in Maths & IT  
-
----
-
-## 📫 Connect with Me
-
-📍 Perth, Australia  
-📧 [Jacksongee2005@gmail.com](mailto:Jacksongee2005@gmail.com)  
-🌐 [GitHub – jacksonjgee](https://github.com/jacksonjgee)
-
----
 
 > “Artificial intelligence is less about replacing intelligence — and more about amplifying curiosity.”
