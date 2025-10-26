@@ -3,15 +3,16 @@
 **Bachelor of Advanced Computer Science (Honours) — `1st Year`**  
 Majoring in **Artificial Intelligence** at the **University of Western Australia** **`WAM 76`** **`ATAR 93`**
 
-**About Me:**  
-My goal is to obtain a deep understanding of the world of AI and apply that knowledge practically to the world in ways that matter.  
-I aim to learn through personal & academic projects, mentorship, and research.  
-I am looking for internship opportunities in **`Data Science`**, **`Machine Learning`**, **`Deep Learning`**, or **`Automations`**.
+I specialise programming in `Python` using `NumPy`, `Pandas`, `Matplotlib` & `Scikit-learn` libraries in `Jupyter Lab` IDE.
+
+I am looking for internship opportunities in **`Data Science`** or **`Machine Learning`**.
+
+I am looking to learn and deeply understand all there is about AI, through projects and mentorship.
 
 ---
 
 ## 🧰 Languages and Tools
-### Specialized:
+### Specialised:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -89,4 +90,6 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 - Member of **UWA AI Club**, building ML and DL models  
 - Assisted in managing a **sports club**, mentoring new players  
 - Captured and edited media for **school and community events**  
-- Volunteered at **dog shelters** and **Park Run** events  
+- Volunteered at **dog shelters** and **Park Run** events
+
+## 👤 About Me
