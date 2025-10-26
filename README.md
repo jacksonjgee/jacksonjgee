@@ -99,3 +99,7 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 
 
 > “Artificial intelligence is less about replacing intelligence — and more about amplifying curiosity.”
+
+## 📲 Contact Details
+If you're interested in doing business with me, please contact me (preferably on gmail):
+- Jacksongee2005@gmail.com
