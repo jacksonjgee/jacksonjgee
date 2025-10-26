@@ -1,5 +1,6 @@
-## Hi there 👋
+# 🤖 Jackson J. Gee
 
+**'AI Engineer (1st year UNI student)'**
 <!--
 **jacksonjgee/jacksonjgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
