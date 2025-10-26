@@ -1,21 +1,12 @@
 # 🤖 Hi, I'm Jackson Gee
 
-🎓 **Bachelor of Advanced Computer Science (Honours) — `1st Year` **  
+🎓 **Bachelor of Advanced Computer Science (Honours) — `1st Year`**  
 Majoring in **Artificial Intelligence** at the **University of Western Australia** (WAM 76)
 
-**About Me:**  
 **About Me:**  
 My goal is to obtain a deep understanding of the world of AI and apply that knowledge practically to the world in ways that matter.  
 I aim to learn through personal & academic projects, mentorship, and research.  
 I am looking for internship opportunities in **`Data Science`**, **`Machine Learning`**, **`Deep Learning`**, and **`Automations`**.
----
-
-## 🧠 Skills & Tools
-
-**Languages:** Python, Java, C, SQL  
-**Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn  
-**Development Tools:** VS Code, IntelliJ, Jupyter Lab, n8n, Capcut, Canva  
-**Creative & Technical Strengths:** Problem-solving, leadership, teamwork, adaptability, and storytelling through design & media
 
 ---
 
