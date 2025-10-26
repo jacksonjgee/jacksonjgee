@@ -1,8 +1,9 @@
-name: Update README with recent activity
+name: Update README with recent repos
+
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours
-  workflow_dispatch:  # lets you trigger manually
+    - cron: '0 */24 * * *'   # every 6 hours
+  workflow_dispatch:        # lets you run manually
 
 jobs:
   update-readme:
@@ -10,7 +11,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-      - name: Update README with latest activity
-        uses: Readme-Workflows/recent-activity@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README with recent repos
+        uses: varunsridharan/action-recent-repos@v1.0.3
+        with:
+          username: jacksonjee
+          max_repos: 3
