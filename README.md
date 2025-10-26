@@ -50,7 +50,7 @@ I am looking to learn and deeply understand all there is about AI, through proje
   <ul>
     <li>
       <a href="https://github.com/jacksonjgee/SVM-Titanic">SVM-Titanic: Predict Titanic survival with Support Vector Machine</a>  
-      Used Python, JupyterLab, Pandas, NumPy, Scikit-learn and Matplotlib to build, train, and evaluate an SVM model for the Titanic dataset (Kaggle).
+      <br>Used Python, JupyterLab, Pandas, NumPy, Scikit-learn and Matplotlib to build, train, and evaluate an SVM model for the Titanic dataset (Kaggle).
     </li>
   </ul>
 </details>
@@ -93,3 +93,5 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 - Volunteered at **dog shelters** and **Park Run** events
 
 ## 👤 About Me
+
+I am currently studying abroad in Perth, Australia, but I grew up in Cape Town, South Africa. Ever since I was young I had a knack for programming, starting from being the best at scratch in my class...
