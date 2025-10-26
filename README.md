@@ -1,7 +1,7 @@
 # 🤖 Hi, I'm Jackson Gee 
 
 **Bachelor of Advanced Computer Science (Honours) — `1st Year`**  
-Majoring in **Artificial Intelligence** at the **University of Western Australia** (WAM 76)
+Majoring in **Artificial Intelligence** at the **University of Western Australia** **`WAM 76`** **`ATAR 93`**
 
 **About Me:**  
 My goal is to obtain a deep understanding of the world of AI and apply that knowledge practically to the world in ways that matter.  
