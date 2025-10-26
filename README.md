@@ -1,4 +1,4 @@
-# 🤖 Hi, I'm Jackson Gee
+# 🤖 Hi, I'm Jackson Gee 
 
 **Bachelor of Advanced Computer Science (Honours) — `1st Year`**  
 Majoring in **Artificial Intelligence** at the **University of Western Australia** (WAM 76)
