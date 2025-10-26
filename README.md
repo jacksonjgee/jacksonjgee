@@ -11,6 +11,7 @@ I am looking for internship opportunities in **`Data Science`**, **`Machine Lear
 ---
 
 ## 🧰 Languages and Tools
+### Specilizing:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -26,7 +27,7 @@ I am looking for internship opportunities in **`Data Science`**, **`Machine Lear
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
-
+### Also know:
 **Programming Languages:** `Java`, `SQLite`, `C`, `Python`  
 **Development Tools:** `IntelliJ`, `Access`, `Canva`, `Visual Studio Code`, `Jupyter Lab`, `n8n`, `Capcut`  
 **Libraries:** `NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`
