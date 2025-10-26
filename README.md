@@ -87,7 +87,7 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 
 ## 🌱 Involvement & Volunteering
 
-- Member of **UWA AI Club**, building ML and DL models  
+- Member of `UWA AI Club`, building ML and DL models  
 - Assisted in managing a **sports club**, mentoring new players  
 - Captured and edited media for **school and community events**  
 - Volunteered at **dog shelters** and **Park Run** events
