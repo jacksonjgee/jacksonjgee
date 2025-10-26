@@ -1,6 +1,6 @@
 # 🤖 Hi, I'm Jackson Gee
 
-🎓 **Bachelor of Advanced Computer Science (Honours) — `1st Year`**  
+**Bachelor of Advanced Computer Science (Honours) — `1st Year`**  
 Majoring in **Artificial Intelligence** at the **University of Western Australia** (WAM 76)
 
 **About Me:**  
@@ -9,6 +9,34 @@ I aim to learn through personal & academic projects, mentorship, and research.
 I am looking for internship opportunities in **`Data Science`**, **`Machine Learning`**, **`Deep Learning`**, and **`Automations`**.
 
 ---
+
+## 🧰 Tool Box
+### Languages:
+<p>
+  <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="left" alt="C" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="left" alt="SQLite" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+  <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+</p>
+
+<br clear="left"/>
+
+### Development Technologies:
+<p>
+  <img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+  <img align="left" alt="Microsoft Access" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+  <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="left" alt="Jupyter Lab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+  <img align="left" alt="n8n" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"/>
+  <img align="left" alt="Capcut" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CapCut_Logo.svg"/>
+</p>
+
+<br clear="left"/>
+
+      
+          
+        
 
 ## 🚀 Projects
 
