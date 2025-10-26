@@ -5,7 +5,7 @@ Majoring in **Artificial Intelligence** at the **University of Western Australia
 
 I specialise programming in `Python` using `NumPy`, `Pandas`, `Matplotlib` & `Scikit-learn` libraries in `Jupyter Lab` IDE.
 
-I am looking for internship opportunities in **`Data Science`** or **`Machine Learning`**.
+I am searching for internship opportunities in **`Data Science`** or **`Machine Learning`**.
 
 I am looking to learn and deeply understand all there is about AI, through projects and mentorship.
 
