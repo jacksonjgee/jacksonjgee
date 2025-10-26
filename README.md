@@ -6,7 +6,7 @@ Majoring in **Artificial Intelligence** at the **University of Western Australia
 **About Me:**  
 My goal is to obtain a deep understanding of the world of AI and apply that knowledge practically to the world in ways that matter.  
 I aim to learn through personal & academic projects, mentorship, and research.  
-I am looking for internship opportunities in **`Data Science`**, **`Machine Learning`**, **`Deep Learning`**, and **`Automations`**.
+I am looking for internship opportunities in **`Data Science`**, **`Machine Learning`**, **`Deep Learning`**, or **`Automations`**.
 
 ---
 
