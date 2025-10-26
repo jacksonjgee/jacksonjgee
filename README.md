@@ -83,6 +83,7 @@ I am looking for internship opportunities in **`Data Science`**, **`Machine Lear
 
 **Training Connection** — *Automation Developer*  
 June 2025 – Jan 2026
+
 Developed **n8n workflows** (Zoom API) for automatic meeting creation and an **ElevenLabs-powered AI phone receptionist** integrated with Google Sheets and CRM. Improved scheduling reliability and client communication.
 
 **Dreampage** — *Video Production Assistant*  
