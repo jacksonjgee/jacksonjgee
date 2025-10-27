@@ -2,10 +2,9 @@
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
   <img src="https://img.shields.io/badge/1st%20Year-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/University%20of%20Western%20Australia-003366?style=for-the-badge&logo=google-scholar&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/AI%20Major-2E8B57?style=for-the-badge&logo=openai&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Looking%20for%20Internships-008080?style=for-the-badge&logo=target&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Major-2E8B57?style=for-the-badge&logo=openai&logoColor=white" height="32" />
   <br>
-  <img src="https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/Looking%20for%20Internships-008080?style=for-the-badge&logo=target&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/Data%20Science-FFB100?style=for-the-badge&logo=databricks&logoColor=black" height="32" />
   <img src="https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge&logo=react&logoColor=white" height="32" />
 </p>
