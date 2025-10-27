@@ -30,9 +30,8 @@
   <!-- 🐶 Image gallery inside the dropdown -->
   <p align="center">
     <img src="Images/Image1.jpg" height="200" style="border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.2); margin: 6px;">
-    <img src="Images/Image2.jpg" height="200" style="border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.2); margin: 6px;">
-    <img src="Images/Image3.jpg" height="200" style="border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.2); margin: 6px;">
     <img src="Images/Image4.jpg" height="200" style="border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.2); margin: 6px;">
+    <img src="Images/Image3.jpg" height="200" style="border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.2); margin: 6px;">
   </p>
 </details>
 
@@ -107,9 +106,16 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 
 #
 
-## 🌱 Involvement & Volunteering
+## 🎓 Education
 
-- Member of `UWA AI Club`, building ML and DL models  
-- Assisted in managing a **sports club**, mentoring new players  
-- Captured and edited media for **school and community events**  
-- Volunteered at **dog shelters** and **Park Run** events
+**Bachelor of Advanced Computer Science (Honours)** — *`1st Year`*  
+Majoring in Artificial Intelligence at the **University of Western Australia** — `WAM 76` `ATAR 93`
+
+Relevant Course Units:
+- Computational Thinking With Python
+- Relational Database Management Systems
+- Cyber Security
+- Philosophical AI
+- System Programming
+- Intro to Data Science
+
