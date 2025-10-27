@@ -21,7 +21,7 @@
       👋 Hi there! I'm Jackson, a first-year AI major looking to make it to the big leagues of AI. I moved here (Perth) from Cape Town, South Africa 🇿🇦 to pursue my further studies. I plan to deeply understand all there is about AI 🤖 — from data science to machine learning. And when I mean learn... I mean learn — no vibe-coding, just pure knowledge 🧠. My goals are to achieve 🎯 top marks, build 💻 personal projects, and create things that genuinely teach me something new. All of this to hopefully land an awesome 💼 internship somewhere...
       <br>I know some people might say I’m getting ahead of myself — but honestly, that’s the point. To. Get. Ahead. 🦾
 <br>
-      Anyways... I’m part of my uni’s 🤝 AI club, I have an unbelievably cute 🐶 dog — Bailey the Beagle — and I love 🏋️ working out. I also have an amazing girlfriend.
+      Anyways... I’m part of my uni’s 🤝 AI club, I have an unbelievably cute 🐶 dog — Bailey the Beagle — and I love 🏋️ working out. I also have an amazing girlfriend ❤️
 <br>
       If you’ve gotten this far, thanks so much for taking a moment out of your day to read this 🙏
     </p>
@@ -58,6 +58,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
 ### Generalised:
 **Programming Languages:** `Java`, `SQLite`, `C` 
+
 **Development Tools:** `IntelliJ`, `Access`, `Canva`, `Visual Studio Code`, `n8n`, `Capcut`  
 
 #
