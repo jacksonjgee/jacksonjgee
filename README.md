@@ -1,4 +1,6 @@
-# 🤖 Hi, I'm Jackson Gee 
+# 🤖 Hi, I'm Jackson Gee <br> [![📄 Download Résumé](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/document/d/10lyGE-40fE_3vaJDCOPyzQZ28StGCPtv-LL3TO5JS8Q/edit?usp=sharing)
+
+
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
   <img src="https://img.shields.io/badge/1st%20Year-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/University%20of%20Western%20Australia-003366?style=for-the-badge&logo=google-scholar&logoColor=white" height="32" />
