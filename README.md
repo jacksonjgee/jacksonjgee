@@ -1,4 +1,4 @@
-# 🤖 Hi, I'm Jackson Gee <br> [![📄 Download Résumé](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yourusername/yourrepo/raw/main/Jackson_Gee_Resume.pdf)
+# 🤖 Hi, I'm Jackson Gee <br> [![📄 Download Résumé](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/jacksonjgee/jacksonjgee/blob/main/Images/Jackson_Gee_Resume.pdf)
 
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
