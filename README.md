@@ -7,8 +7,7 @@
   <br>
   <img src="https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/Data%20Science-FFB100?style=for-the-badge&logo=databricks&logoColor=black" height="32" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge&logo=brain&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=react&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge&logo=react&logoColor=white" height="32" />
 </p>
 
 #
