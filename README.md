@@ -1,13 +1,31 @@
 # 🤖 Hi, I'm Jackson Gee 
 
-**Bachelor of Advanced Computer Science (Honours) — `1st Year`**  
-Majoring in **Artificial Intelligence** at the **University of Western Australia** **`WAM 76`** **`ATAR 93`**
+<p align="center">
+  <img src="https://img.shields.io/badge/1st%20Year-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/University%20of%20Western%20Australia-00539B?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Major-8A2BE2?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/Looking%20for%20Internships-2E8B57?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-orange?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0096FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
-I specialise programming in `Python` using `NumPy`, `Pandas`, `Matplotlib` & `Scikit-learn` libraries in `Jupyter Lab` IDE.
-
-I am searching for internship opportunities in **`Data Science`** or **`Machine Learning`**.
-
-I am looking to learn and deeply understand all there is about AI, through projects and mentorship.
+<details>
+  <summary>📘 Click to read more about me</summary>
+  <br>
+  <p align="left">
+  I'm a <b>1st-year Bachelor of Advanced Computer Science (Honours)</b> student at the <b>University of Western Australia</b>, majoring in <b>Artificial Intelligence</b> (WAM 76, ATAR 93).  
+  <br><br>
+  I specialise in programming with <b>Python</b>, using libraries such as <b>NumPy</b>, <b>Pandas</b>, <b>Matplotlib</b>, and <b>Scikit-learn</b> in <b>Jupyter Lab</b>.  
+  <br><br>
+  I’m currently seeking <b>internship opportunities</b> in <b>Data Science</b> or <b>Machine Learning</b> and I’m passionate about <b>learning AI through projects and mentorship</b>.
+  </p>
+</details>
 
 ---
 
@@ -81,7 +99,3 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 - Assisted in managing a **sports club**, mentoring new players  
 - Captured and edited media for **school and community events**  
 - Volunteered at **dog shelters** and **Park Run** events
-
-## 👤 About Me
-
-I am currently studying abroad in Perth, Australia, but I grew up in Cape Town, South Africa. Ever since I was young I had a knack for programming, starting from being the best at scratch in my class...
