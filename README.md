@@ -64,7 +64,7 @@
 
 #
 
-## 🚀 Projects & Research
+## 🚀 Projects
 
 <details>
   <summary>Data Science</summary>
