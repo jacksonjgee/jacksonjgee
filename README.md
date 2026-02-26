@@ -3,7 +3,7 @@
 
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
-  <img src="https://img.shields.io/badge/1st%20Year-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/2nd%20Year-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/University%20of%20Western%20Australia-003366?style=for-the-badge&logo=google-scholar&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence%20Major-2E8B57?style=for-the-badge&logo=openai&logoColor=white" height="32" />
   <br>
