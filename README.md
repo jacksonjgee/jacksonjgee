@@ -110,8 +110,8 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 
 ## 🎓 Education
 
-**Bachelor of Advanced Computer Science (Honours)** — *`1st Year`*  
-Majoring in Artificial Intelligence at the **University of Western Australia** — `WAM 76` `ATAR 93`
+**Bachelor of Advanced Computer Science (Honours)** — *`2nd Year`*  
+Majoring in Artificial Intelligence at the **University of Western Australia** — `WAM 77` `ATAR 93`
 
 Relevant Course Units:
 - Computational Thinking With Python
