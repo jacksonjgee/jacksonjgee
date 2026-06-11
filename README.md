@@ -19,7 +19,7 @@
   <br>
   <div align="left">
     <p align="left" style="max-width: 800px; line-height: 1.6; font-size: 15px;">
-      👋 Hi there! I'm Jackson, a first-year AI major looking to make it to the big leagues of AI. I moved here (Perth) from Cape Town, South Africa 🇿🇦 to pursue my further studies. I plan to deeply understand all there is about AI 🤖 — from data science to machine learning. And when I mean learn... I mean learn — no vibe-coding, just pure knowledge 🧠. My goals are to achieve 🎯 top marks, build 💻 personal projects, and create things that genuinely teach me something new. All of this to hopefully land an awesome 💼 internship somewhere...
+      👋 Hi there! I'm Jackson, a second-year AI major looking to make it to the big leagues of AI. I moved here (Perth) from Cape Town, South Africa 🇿🇦 to pursue my further studies. I plan to deeply understand all there is about AI 🤖 — from data science to machine learning. And when I mean learn... I mean learn — no vibe-coding, just pure knowledge 🧠. My goals are to achieve 🎯 top marks, build 💻 personal projects, and create things that genuinely teach me something new. All of this to hopefully land an awesome 💼 internship somewhere...
       I am currently working on the following roadmap: https://roadmap.sh/r/ml-engineer-3dqvu
 <br>
       Anyways... I’m part of my uni’s 🤝 AI club, I have an unbelievably cute 🐶 dog — Bailey the Beagle — I love 🏋️ working out. And I also have an amazing girlfriend ❤️
