@@ -1,10 +1,10 @@
 # Hi, I'm Jackson Gee 👋  <br> [![📄 Download Résumé](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/sciyqzffrc8p2tr3amfmw/Jackson-Gee-Resume.pdf?rlkey=l4x3txdn65ixkfkwneh3psvr2&st=n64m8fwy&dl=0)
 
-I'm a second-year **Advanced Computer Science student**, majoring in **Artificial Intelligence** at the University of Western Australia.
+I'm a second-year **`Advanced Computer Science student`**, majoring in **`Artificial Intelligence`** at the University of Western Australia.
 
-I'm currently developing my skills in **machine learning, data science and software development** through university studies and personal projects. My goal is to understand how models work - not simply use them - and document my progress as I move from fundamental machine-learning models toward more advanced AI systems.
+I'm currently developing my skills in **`machine learning`**, **`data science`** and **`software development`** through university studies and personal projects. My goal is to understand how models work - not simply use them - and document my progress as I move from fundamental machine-learning models toward more advanced AI systems.
 
-I'm currently looking for **internship opportunities** where I can apply my technical skills, learn from experienced developers and contribute to meaningful projects.
+I'm currently looking for **`internship opportunities`** where I can apply my technical skills, learn from experienced developers and contribute to meaningful projects.
 
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
