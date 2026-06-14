@@ -41,7 +41,7 @@ Produced and edited course modules, handling **camera operation**, **post-produc
 ## 🎓 Education
 
 **Bachelor of Advanced Computer Science (Honours)** — *`2nd Year`*  
-Majoring in Artificial Intelligence at the **University of Western Australia** — `WAM 77` `ATAR 99`
+Majoring in Artificial Intelligence at the **University of Western Australia** — `WAM 77` `ATAR 99` `GPA 6.25/7`
 
 **Relevant Coursework:**
 `Introduction to Data Science` · `Object-Oriented Programming` · `Data Structures and Algorithms` · `Systems Programming` · `Relational Database Management Systems` · `Computational Thinking with Python`
