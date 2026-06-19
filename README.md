@@ -25,8 +25,14 @@ I'm currently looking for **`internship opportunities`** where I can apply my te
 ### Development Tools: `Visula Studio Code` `Jupyter Notebooks` `n8n`  
 
 ## 🚀 Projects
-- For more ML/DL/data science projects, check out my [AI_Projects](https://github.com/jacksonjgee/AI_Projects) repo.
-- For other interesting projects, check out my [Side_Projects](https://github.com/jacksonjgee/Side_Projects) repo.
+- [Bank Marketing Logistic Regression](https://github.com/jacksonjgee/bank-marketing-logistic-regression)<br>
+Predicting customer term-deposit subscriptions using logistic regression.
+
+- [Salary Linear Regression From Scratch](https://github.com/jacksonjgee/Salary-Linear-Regression-From-Scratch) <br>
+A from-scratch implementation of simple linear regression using Python and Pandas, including gradient descent, model evaluation, and data visualisation.
+
+- [Dijkstra's Game](https://github.com/jacksonjgee/dijkstras_game) <br>
+An interactive browser-based visualiser for creating weighted graphs and exploring Dijkstra’s shortest-path algorithm, built with Python and Pygame.
 
 ## 💼 Experience
 
