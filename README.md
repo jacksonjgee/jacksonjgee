@@ -1,4 +1,4 @@
-# Hi, I'm Jackson Gee 👋  <br> [![📄 Download Résumé](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/sciyqzffrc8p2tr3amfmw/Jackson-Gee-Resume.pdf?rlkey=l4x3txdn65ixkfkwneh3psvr2&st=n64m8fwy&dl=1)
+# Hi, I'm Jackson Gee 👋  <br> [![📄 Download Résumé](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://www.dropbox.com/scl/fi/sciyqzffrc8p2tr3amfmw/Jackson-Gee-Resume.pdf?rlkey=l4x3txdn65ixkfkwneh3psvr2&st=n64m8fwy](https://www.dropbox.com/scl/fi/nm7rqhcxjt6hlo59779en/Jackson_Gee_Resume.pdf?rlkey=b7ks1m1gntg7bgbay4grx6r76&st=y5z81bwu&dl=1)
 
 I'm a second-year **`Advanced Computer Science student`**, majoring in **`Artificial Intelligence`** at the University of Western Australia.
 
