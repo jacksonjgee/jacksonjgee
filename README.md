@@ -31,6 +31,9 @@ Predicting customer term-deposit subscriptions using logistic regression.
 - [Salary Linear Regression From Scratch](https://github.com/jacksonjgee/Salary-Linear-Regression-From-Scratch) <br>
 A from-scratch implementation of simple linear regression using Python and Pandas, including gradient descent, model evaluation, and data visualisation.
 
+- [Census Data Analysis](https://github.com/jacksonjgee/Census-Data_Analysis)<br>
+Python data analysis of 2016 and 2021 Australian Census qualification data, exploring changes in field-of-study popularity using pandas and Matplotlib.
+
 - [Dijkstra's Game](https://github.com/jacksonjgee/dijkstras_game) <br>
 An interactive browser-based visualiser for creating weighted graphs and exploring Dijkstra’s shortest-path algorithm, built with Python and Pygame.
 
