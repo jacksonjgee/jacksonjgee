@@ -20,7 +20,7 @@ I'm currently looking for **`internship opportunities`** where I can apply my te
 
 ## 🧰 Languages and Tools
 ### Strongest Languages: `Python` `Java`
-### Currently Developing: `Pandas` `Scikit-Learn`
+### Currently Developing: `Pandas` `Scikit-Learn` `Matplotlib`
 ### Familiar With: `C` `SQL`
 ### Development Tools: `Visula Studio Code` `Jupyter Notebooks` `n8n`  
 
@@ -41,11 +41,13 @@ An interactive browser-based visualiser for creating weighted graphs and explori
 
 **Training Connection** — *Automation Developer*  
 June 2025 – Jan 2026
-Developed **n8n workflows** (Zoom API) for automatic meeting creation and an **ElevenLabs-powered AI phone receptionist** integrated with Google Sheets. Improved scheduling reliability and client communication.
+- Developed n8n workflows using the Zoom API to automate meeting creation and management.
+- Built an ElevenLabs-powered AI phone receptionist integrated with Google Sheets, improving scheduling reliability and client communication.
+
 
 **Dreampage** — *Video Production Assistant*  
 June 2023 – Nov 2023  
-Produced and edited course modules, handling **camera operation**, **post-production editing**, and **colour correction**, delivering high-quality learning content.
+Produced and edited online course modules, managing camera operation, post-production editing and colour correction.
 
 ## 🎓 Education
 
