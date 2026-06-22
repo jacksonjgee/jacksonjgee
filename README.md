@@ -1,5 +1,5 @@
 # Machine Learning Engineer
-## Hi, I'm Jackson Gee 👋  <br> [![📄 Download Resume](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/daqdp8oz533ye9oeur5fz/Jackson-Gee-Resume.pdf?rlkey=d1xewzyb5gcpqmraiuebn0d0t&st=rgwa67wl&dl=1)
+## Hi, I'm Jackson Gee 👋  <br> [![📄 Download Resume](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/kg5qccj2l73qu9tfgeaku/Jackson-Gee-Resume.pdf?rlkey=mdpg5ts7meypoa0qe7dlicy18&st=cmjlv2ia&dl=1)
 
 I'm a second-year **`Advanced Computer Science student`**, majoring in **`Artificial Intelligence`** at the University of Western Australia.
 
@@ -48,7 +48,7 @@ June 2025 – Jan 2026
 
 **Dreampage** — *Video Production Assistant*  
 June 2023 – Nov 2023  
-Produced and edited online course modules, managing camera operation, post-production editing and colour correction.
+- Produced and edited online course modules, managing camera operation, post-production editing and colour correction.
 
 ## 🎓 Education
 
