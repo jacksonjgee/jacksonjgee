@@ -26,8 +26,8 @@ I'm currently looking for **`internship opportunities`** where I can apply my te
 ### Development Tools: `Visula Studio Code` `Jupyter Notebooks` `n8n`  
 
 ## 🚀 Projects
-- [Bank Marketing Logistic Regression](https://github.com/jacksonjgee/bank-marketing-logistic-regression)<br>
-Predicting customer term-deposit subscriptions using logistic regression.
+- [Cancer Logistic Regression From Scratch](https://github.com/jacksonjgee/Cancer-Logistic-Regression-From-Scratch)<br>
+A from-scratch logistic regression implementation using NumPy, tested on the Breast Cancer Wisconsin dataset, with matplotlib visualisations. I also create a detailed theory and implementation guide explaining how the model works under the hood.
 
 - [Salary Linear Regression From Scratch](https://github.com/jacksonjgee/Salary-Linear-Regression-From-Scratch) <br>
 A from-scratch implementation of simple linear regression using Python and Pandas, including gradient descent, model evaluation, and data visualisation.
