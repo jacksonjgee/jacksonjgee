@@ -1,5 +1,5 @@
 # Machine Learning Engineer
-## Hi, I'm Jackson Gee 👋  <br> [![📄 Download Resume](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/kg5qccj2l73qu9tfgeaku/Jackson-Gee-Resume.pdf?rlkey=mdpg5ts7meypoa0qe7dlicy18&st=cmjlv2ia&dl=1)
+## Hi, I'm Jackson Gee 👋  <br> [![📄 Download Resume](https://img.shields.io/badge/📄%20Download%20Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/t39zyxkii3c090bj24ywg/Jackson-Gee-Resume.pdf?rlkey=7rf9u7bg8aklbz05965bkv715&st=wttdp8xs&dl=1)
 
 I'm a second-year **`Advanced Computer Science student`**, majoring in **`Artificial Intelligence`** at the University of Western Australia.
 
