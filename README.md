@@ -21,7 +21,7 @@ I'm currently looking for **`internship opportunities`** where I can apply my te
 
 ## 🧰 Languages and Tools
 ### Strongest Languages: `Python` `Java`
-### Currently Developing: `Pandas` `Scikit-Learn` `Matplotlib`
+### Currently Developing: `Pandas` `Numpy` `Scikit-Learn` `Matplotlib`
 ### Familiar With: `C` `SQL`
 ### Development Tools: `Visula Studio Code` `Jupyter Notebooks` `n8n`  
 
